@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nakul24-1
 - 👀 I’m interested in Sports,Deep Learning,NLP
 - 🌱 I’m currently Studying Computer Science at NYU
-- 💞️ I’m looking to collaborate on projects realted to Text Analysis,BERT,Personality Analysis,Behavioral Analysis etc.
 - 📫 How to reach me - Email np2455@nyu.edu
 
 <!---
